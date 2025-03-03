@@ -4,7 +4,7 @@ const data = [
   { Id: 3, Nombre: 'Perro', idPadre: 1 },
   { Id: 4, Nombre: 'Plantas', idPadre: 0 },
   { Id: 5, Nombre: 'Árbol', idPadre: 4 },
-  { Id: 6, Nombre: 'Flores', idPadre: 3 },
+  { Id: 6, Nombre: 'Flores', idPadre: 4 },
   { Id: 7, Nombre: 'Micu', idPadre: 2 },
   { Id: 8, Nombre: 'Sasy', idPadre: 2 },
   { Id: 9, Nombre: 'Fido', idPadre: 3 },
