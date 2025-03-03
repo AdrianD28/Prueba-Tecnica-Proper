@@ -6,28 +6,19 @@ Este proyecto es una prueba técnica diseñada para demostrar habilidades avanza
 
 ## Instalación
 
-Para instalar y ejecutar este proyecto, sigue los siguientes pasos:
+Para instalar y ejecutar este proyecto, sigue estos pasos:
 
 1. Clona el repositorio:
-    ```bash
-    git clone https://github.com/usuario/prueba-tecnica-proper.git
+    ```sh
+    git clone https://github.com/AdrianD28/Prueba-Tecnica-Proper.git
     ```
 2. Navega al directorio del proyecto:
-    ```bash
-    cd prueba-tecnica-proper
+    ```sh
+    cd Prueba-Tecnica-Proper
     ```
 
 ## Uso
 
 Para iniciar la aplicación, ejecuta:
-```bash
+```sh
 node src/index.js
-```
-
-## Características
-
-- Implementación de funcionalidades clave utilizando las mejores prácticas de desarrollo.
-- Código modular y reutilizable.
-- Documentación clara y concisa para facilitar la comprensión y el mantenimiento del proyecto.
-
-
