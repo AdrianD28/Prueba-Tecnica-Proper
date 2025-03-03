@@ -1,0 +1,20 @@
+{
+  "name": "prueba-tecnica-proper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdrianD28/Prueba-Tecnica-Proper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdrianD28/Prueba-Tecnica-Proper/issues"
+  },
+  "homepage": "https://github.com/AdrianD28/Prueba-Tecnica-Proper#readme",
+  "description": ""
+}
